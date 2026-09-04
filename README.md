@@ -6,7 +6,29 @@ This project automates the cleaning process using Python and Pandas, reducing re
 
 ##  Workflow
 ```
-Messy Excel Files ↓ Read Multiple Files ↓ Combine Data ↓ Remove Duplicates ↓ Standardize Columns & Text ↓ Handle Missing / Invalid Values ↓ Clean Quantity & Unit Price ↓ Clean Order Dates ↓ Validate Data ↓ Cleaned Excel File ↓ Archive Processed Files
+Messy Excel Files
+        ↓
+Read Multiple Excel Files
+        ↓
+Combine Data
+        ↓
+Remove Duplicates
+        ↓
+Remove Empty Rows
+        ↓
+Standardize Columns & Text
+        ↓
+Handle Missing / Invalid Values
+        ↓
+Clean Quantity & Unit Price
+        ↓
+Clean Order Dates
+        ↓
+Validate Data
+        ↓
+Cleaned Excel File
+        ↓
+Archive Processed Files
 ```
 
 ## Technologies Used
