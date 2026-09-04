@@ -32,12 +32,12 @@ Archive Processed Files
 ```
 
 ## Technologies Used
-Python
-Pandas
-OS
-Glob
-Shutil
-OpenPyXL
+- Python
+- Pandas
+- OS
+- Glob
+- Shutil
+- OpenPyXL
 
 
 ## Key Features
