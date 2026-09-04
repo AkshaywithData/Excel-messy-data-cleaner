@@ -1,0 +1,8 @@
+~$*.xlsx
+~$*.xls
+venv/
+.venv/
+.env
+.vscode/
+.DS_Store
+Thumbs.db
